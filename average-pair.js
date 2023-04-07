@@ -32,4 +32,3 @@ function averagePair(nums, targetAvg) {
 
   return false;
 }
-
