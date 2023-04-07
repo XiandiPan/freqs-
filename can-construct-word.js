@@ -1,4 +1,5 @@
 "use strict";
+//TODO: real docstring (inputs, outputs) & come up with good names
 
 /** input: string. output: object */
 // add whatever parameters you deem necessary & write doc comment
